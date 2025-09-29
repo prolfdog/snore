@@ -48,3 +48,5 @@ logs/
 *.pt
 models/
 checkpoints/
+
+.DS_Store
